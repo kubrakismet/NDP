@@ -1,0 +1,20 @@
+C:\Users\hp\Desktop\b161200301\b161200301\bin\Debug\b161200301.exe.config
+C:\Users\hp\Desktop\b161200301\b161200301\bin\Debug\b161200301.exe
+C:\Users\hp\Desktop\b161200301\b161200301\bin\Debug\b161200301.pdb
+C:\Users\hp\Desktop\b161200301\b161200301\obj\Debug\b161200301.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\b161200301\b161200301\obj\Debug\b161200301.Form1.resources
+C:\Users\hp\Desktop\b161200301\b161200301\obj\Debug\b161200301.Properties.Resources.resources
+C:\Users\hp\Desktop\b161200301\b161200301\obj\Debug\b161200301.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\b161200301\b161200301\obj\Debug\b161200301.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\b161200301\b161200301\obj\Debug\b161200301.exe
+C:\Users\hp\Desktop\b161200301\b161200301\obj\Debug\b161200301.pdb
+C:\Users\hp\Desktop\saü\ödev 1. ve 2.sınıf programlama\nesneye dayalı prog\1\b161200301\b161200301\bin\Debug\b161200301.exe.config
+C:\Users\hp\Desktop\saü\ödev 1. ve 2.sınıf programlama\nesneye dayalı prog\1\b161200301\b161200301\bin\Debug\b161200301.exe
+C:\Users\hp\Desktop\saü\ödev 1. ve 2.sınıf programlama\nesneye dayalı prog\1\b161200301\b161200301\bin\Debug\b161200301.pdb
+C:\Users\hp\Desktop\saü\ödev 1. ve 2.sınıf programlama\nesneye dayalı prog\1\b161200301\b161200301\obj\Debug\b161200301.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\saü\ödev 1. ve 2.sınıf programlama\nesneye dayalı prog\1\b161200301\b161200301\obj\Debug\b161200301.Form1.resources
+C:\Users\hp\Desktop\saü\ödev 1. ve 2.sınıf programlama\nesneye dayalı prog\1\b161200301\b161200301\obj\Debug\b161200301.Properties.Resources.resources
+C:\Users\hp\Desktop\saü\ödev 1. ve 2.sınıf programlama\nesneye dayalı prog\1\b161200301\b161200301\obj\Debug\b161200301.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\saü\ödev 1. ve 2.sınıf programlama\nesneye dayalı prog\1\b161200301\b161200301\obj\Debug\b161200301.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\saü\ödev 1. ve 2.sınıf programlama\nesneye dayalı prog\1\b161200301\b161200301\obj\Debug\b161200301.exe
+C:\Users\hp\Desktop\saü\ödev 1. ve 2.sınıf programlama\nesneye dayalı prog\1\b161200301\b161200301\obj\Debug\b161200301.pdb
